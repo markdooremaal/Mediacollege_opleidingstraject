@@ -6,5 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Opleidingstraject</title>
     <link href="css/app.css" rel="stylesheet" type="text/css">
+    <script href="js/app.js"></script>
 </head>
 

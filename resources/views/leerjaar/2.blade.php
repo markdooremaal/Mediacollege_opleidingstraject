@@ -4,16 +4,22 @@
 
     <hr>
 
-    <div class="box">
+    <div class="box fase-2">
+        <a href="/fase/2">
         <h1 class="subtitle">Fase 2 basis</h1>
+        </a>
     </div>
 
-    <div class="box">
+    <div class="box fase-3">
+        <a href="/fase/3">
         <h1 class="subtitle">Fase 3 verdieping</h1>
+        </a>
     </div>
 
-    <div class="box">
+    <div class="box fase-4">
+        <a href="/fase/4">
         <h1 class="subtitle">Fase 4 stage</h1>
+        </a>
     </div>
 
 </div>

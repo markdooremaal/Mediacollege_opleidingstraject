@@ -4,12 +4,16 @@
 
     <hr>
 
-    <div class="box fase1">
-        <h1 class="subtitle">Fase 1 orientatie</h1>
+    <div class="box fase-1">
+        <a href="/fase/1">
+            <h1 class="subtitle">Fase 1 orientatie</h1>
+        </a>
     </div>
 
-    <div class="box">
-        <h1 class="subtitle">Fase 2 basis</h1>
+    <div class="box fase-2">
+        <a href="/fase/2">
+            <h1 class="subtitle">Fase 2 basis</h1>
+        </a>
     </div>
 
 

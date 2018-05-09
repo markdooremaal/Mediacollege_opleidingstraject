@@ -17,5 +17,7 @@
         "lodash": "^4.17.4",
         "popper.js": "^1.12"
     },
-    "dependencies": {}
+    "dependencies": {
+        "bulma": "^0.7.1"
+    }
 }

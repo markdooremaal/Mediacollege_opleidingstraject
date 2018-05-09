@@ -7,5 +7,4 @@
     <title>Opleidingstraject</title>
     <link href="css/app.css" rel="stylesheet" type="text/css">
 </head>
-<body>Test</body>
 

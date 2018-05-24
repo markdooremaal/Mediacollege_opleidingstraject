@@ -73,15 +73,19 @@ module.exports = __webpack_require__(4);
 
 /***/ }),
 /* 1 */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_turbolinks__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_turbolinks___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_turbolinks__);
 
 /**
  * Load library's
  */
 
-var Turbolinks = __webpack_require__(2);
-Turbolinks.start();
+
+Object(__WEBPACK_IMPORTED_MODULE_0_turbolinks__["start"])();
 
 /***/ }),
 /* 2 */

@@ -4,8 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Opleidingstraject</title>
+    <title>{{ config('app.name') }} | @yield('title')</title>
     <link href={{ asset('css/app.css') }} rel="stylesheet" type="text/css">
-    <script href="{{ asset('js/app.js') }}"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    <script type="text/javascript" src="{!! asset('js/app.js') !!}"></script>
 </head>
 

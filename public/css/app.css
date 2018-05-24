@@ -11524,6 +11524,10 @@ label.panel-block:hover {
   cursor: pointer;
 }
 
+.fase-1 .subtitle {
+  color: #0a0a0a !important;
+}
+
 .fase-2 {
   background-color: #f2f2f2;
 }
@@ -11531,6 +11535,10 @@ label.panel-block:hover {
 .fase-2:hover {
   background-color: #fff;
   cursor: pointer;
+}
+
+.fase-2 .subtitle {
+  color: #0a0a0a !important;
 }
 
 .fase-3 {
@@ -11542,6 +11550,10 @@ label.panel-block:hover {
   cursor: pointer;
 }
 
+.fase-3 .subtitle {
+  color: #0a0a0a !important;
+}
+
 .fase-4 {
   background-color: #f2f2f2;
 }
@@ -11551,6 +11563,10 @@ label.panel-block:hover {
   cursor: pointer;
 }
 
+.fase-4 .subtitle {
+  color: #0a0a0a !important;
+}
+
 .fase-5 {
   background-color: #f2f2f2;
 }
@@ -11558,5 +11574,13 @@ label.panel-block:hover {
 .fase-5:hover {
   background-color: #fff;
   cursor: pointer;
+}
+
+.fase-5 .subtitle {
+  color: #0a0a0a !important;
+}
+
+.is-pink {
+  color: #e62686 !important;
 }
 

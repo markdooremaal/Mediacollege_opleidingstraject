@@ -7,6 +7,7 @@
     <div class="box fase-1">
         <a href="/fase/1">
             <h1 class="subtitle">Fase 1 orientatie</h1>
+
         </a>
     </div>
 

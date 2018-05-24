@@ -4,11 +4,15 @@
 
 @include('partials.header')
 
-<div class="container is-fluid">
+<section class="hero is-medium is-black">
+    <div class="hero-body">
+        <div class="container">
+            @yield('content')
+        </div>
+    </div>
+</section>
 
-@yield('content')
-
-</div>
+@include('partials.footer')
 
 </body>
 

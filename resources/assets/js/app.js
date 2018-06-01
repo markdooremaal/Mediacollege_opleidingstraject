@@ -3,8 +3,8 @@
  * Load library's
  */
 
-import { start } from "turbolinks";
-start();
+// import { start } from "turbolinks";
+// start();
 
 
 

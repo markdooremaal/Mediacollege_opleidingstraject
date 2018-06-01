@@ -1,14 +1,9 @@
 <?php
 
 /*
-|--------------------------------------------------------------------------
+|-----------
 | Web Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider within a group which
-| contains the "web" middleware group. Now create something great!
-|
+|-----------
 */
 
 // Index Route
@@ -22,19 +17,19 @@ Route::get('/fase/1', function () {
 });
 
 Route::get('/fase/2', function () {
-    echo "fase2";
+    return view('fase.2');
 });
 
 Route::get('/fase/3', function () {
-    echo "fase3";
+    return view('fase.3');
 });
 
 Route::get('/fase/4', function () {
-    echo "fase4";
+    return view('fase.4');
 });
 
 Route::get('/fase/5', function () {
-    echo "fase5";
+    return view('fase.5');
 });
 
 

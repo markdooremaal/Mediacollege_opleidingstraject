@@ -13,5 +13,5 @@
 @endsection
 
 @section('title')
-    MA
+    Home
 @endsection

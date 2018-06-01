@@ -3,51 +3,54 @@
   &-1 {
     background-color: $gray;
     &:hover {
-      background-color: $white;
+      background-color: $purple;
       cursor: pointer;
     }
     .subtitle {
-      color: #0a0a0a !important;
+      color: #0a0a0a   !important;
     }
   }
 
-  &-2 {
+  &-2, &-2b {
     background-color: $gray;
-    &:hover {
-      background-color: $white;
-      cursor: pointer;
-    }
+
     .subtitle {
       color: #0a0a0a !important;
+    }
+
+    &.is-active {
+      background-color: $blue !important;
     }
   }
 
-  &-3 {
+  &-3, &-3b {
     background-color: $gray;
-    &:hover {
-      background-color: $white;
-      cursor: pointer;
-    }
+
     .subtitle {
       color: #0a0a0a !important;
+    }
+
+    &.is-active {
+      background-color: $success !important;
     }
   }
 
-  &-4 {
+  &-4, &-4b {
     background-color: $gray;
-    &:hover {
-      background-color: $white;
-      cursor: pointer;
-    }
+
     .subtitle {
       color: #0a0a0a !important;
+    }
+
+    &.is-active {
+      background-color: $error !important;
     }
   }
 
   &-5 {
     background-color: $gray;
     &:hover {
-      background-color: $white;
+      background-color: $warning;
       cursor: pointer;
     }
     .subtitle {

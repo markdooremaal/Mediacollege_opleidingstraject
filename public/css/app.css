@@ -11516,63 +11516,69 @@ label.panel-block:hover {
 }
 
 .fase-1 {
-  background-color: #f2f2f2;
+  background-color: #d7d7d7;
 }
 
 .fase-1:hover {
-  background-color: #fff;
+  background-color: #a193b1;
   cursor: pointer;
 }
 
 .fase-1 .subtitle {
+  color: #0a0a0a   !important;
+}
+
+.fase-2,
+.fase-2b {
+  background-color: #d7d7d7;
+}
+
+.fase-2 .subtitle,
+.fase-2b .subtitle {
   color: #0a0a0a !important;
 }
 
-.fase-2 {
-  background-color: #f2f2f2;
+.fase-2.is-active,
+.fase-2b.is-active {
+  background-color: #86b3cd !important;
 }
 
-.fase-2:hover {
-  background-color: #fff;
-  cursor: pointer;
+.fase-3,
+.fase-3b {
+  background-color: #d7d7d7;
 }
 
-.fase-2 .subtitle {
+.fase-3 .subtitle,
+.fase-3b .subtitle {
   color: #0a0a0a !important;
 }
 
-.fase-3 {
-  background-color: #f2f2f2;
+.fase-3.is-active,
+.fase-3b.is-active {
+  background-color: #95b996 !important;
 }
 
-.fase-3:hover {
-  background-color: #fff;
-  cursor: pointer;
+.fase-4,
+.fase-4b {
+  background-color: #d7d7d7;
 }
 
-.fase-3 .subtitle {
+.fase-4 .subtitle,
+.fase-4b .subtitle {
   color: #0a0a0a !important;
 }
 
-.fase-4 {
-  background-color: #f2f2f2;
-}
-
-.fase-4:hover {
-  background-color: #fff;
-  cursor: pointer;
-}
-
-.fase-4 .subtitle {
-  color: #0a0a0a !important;
+.fase-4.is-active,
+.fase-4b.is-active {
+  background-color: #c57582 !important;
 }
 
 .fase-5 {
-  background-color: #f2f2f2;
+  background-color: #d7d7d7;
 }
 
 .fase-5:hover {
-  background-color: #fff;
+  background-color: #ebc06f;
   cursor: pointer;
 }
 
@@ -11582,5 +11588,13 @@ label.panel-block:hover {
 
 .is-pink {
   color: #e62686 !important;
+}
+
+.is-pink-link {
+  color: #e62686;
+}
+
+.is-pink-link:hover {
+  color: #000;
 }
 

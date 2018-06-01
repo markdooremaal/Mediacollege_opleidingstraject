@@ -13,8 +13,9 @@ let mix = require('laravel-mix');
 
 mix.js('resources/assets/js/app.js', 'public/js')
    .sass('resources/assets/sass/app.scss', 'public/css')
-   .js('resources/assets/js/bulma.js', 'public/js');
+   .js('resources/assets/js/bulma.js', 'public/js')
+   .js('resources/assets/js/animations.js', 'public/js');
 
-   mix.browserSync({
-    proxy: 'opleidingstraject.test'
-})
+//    mix.browserSync({
+//     proxy: 'opleidingstraject.test'
+// })

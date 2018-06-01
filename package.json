@@ -21,6 +21,7 @@
     },
     "dependencies": {
         "bulma": "^0.7.1",
+        "scrollreveal": "^3.4.0",
         "turbolinks": "^5.1.1"
     }
 }

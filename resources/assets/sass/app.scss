@@ -10,3 +10,10 @@
 // Custom Styles
 @import "fases";
 @import "typography";
+
+.is-black {
+  background-color: #0C0C0C !important;
+  .title, .subtitle {
+    color: #fff;
+  }
+}

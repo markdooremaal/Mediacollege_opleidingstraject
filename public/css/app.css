@@ -11595,6 +11595,15 @@ label.panel-block:hover {
 }
 
 .is-pink-link:hover {
-  color: #000;
+  color: #0C0C0C;
+}
+
+.is-black {
+  background-color: #0C0C0C !important;
+}
+
+.is-black .title,
+.is-black .subtitle {
+  color: #fff;
 }
 

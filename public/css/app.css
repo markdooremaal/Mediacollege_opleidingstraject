@@ -11607,3 +11607,21 @@ label.panel-block:hover {
   color: #fff;
 }
 
+.is-pink-bg {
+  background-color: #e62686 !important;
+  color: #fff !important;
+}
+
+.prevnex {
+  background-color: #e62686 !important;
+  color: #fff;
+}
+
+.prevnex.prev {
+  border-top-left-radius: 5px;
+}
+
+.prevnex.nex {
+  border-top-right-radius: 5px;
+}
+

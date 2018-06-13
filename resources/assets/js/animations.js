@@ -2,8 +2,8 @@
 import ScrollReveal from 'scrollreveal'
 
 window.sr = ScrollReveal({
-    reset: false,
-    duration: 500,
+    reset: true,
+    duration: 300,
     opacity: .0,
     scale: 0.9,
     easing: 'linear',

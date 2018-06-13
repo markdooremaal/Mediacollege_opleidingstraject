@@ -17,3 +17,21 @@
     color: #fff;
   }
 }
+
+.is-pink-bg {
+  background-color: $pink !important;
+  color: #fff !important;
+}
+
+.prevnex {
+  background-color: $pink !important;
+  color: #fff;
+
+  &.prev {
+    border-top-left-radius: 5px;
+  }
+
+  &.nex {
+    border-top-right-radius: 5px;
+  }
+}

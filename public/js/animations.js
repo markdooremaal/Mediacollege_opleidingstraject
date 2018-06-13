@@ -87,8 +87,8 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
 
 window.sr = __WEBPACK_IMPORTED_MODULE_0_scrollreveal___default()({
-    reset: false,
-    duration: 500,
+    reset: true,
+    duration: 300,
     opacity: .0,
     scale: 0.9,
     easing: 'linear'

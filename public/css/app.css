@@ -11598,6 +11598,11 @@ label.panel-block:hover {
   color: #0C0C0C;
 }
 
+.title.is-pink:hover {
+  -webkit-text-decoration: underline solid #fff !important;
+          text-decoration: underline solid #fff !important;
+}
+
 .is-black {
   background-color: #0C0C0C !important;
 }
@@ -11623,5 +11628,10 @@ label.panel-block:hover {
 
 .prevnex.nex {
   border-top-right-radius: 5px;
+}
+
+.prevnex.home {
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
 }
 

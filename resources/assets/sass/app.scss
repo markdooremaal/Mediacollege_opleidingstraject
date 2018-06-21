@@ -34,4 +34,9 @@
   &.nex {
     border-top-right-radius: 5px;
   }
+
+  &.home {
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+  }
 }

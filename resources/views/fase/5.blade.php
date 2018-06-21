@@ -26,7 +26,7 @@
                     <div class="media-content">
                         <div class="content">
                             <p>
-                                <strong>Examen</strong>
+                                <strong>Examen proeve van bekwaamheid</strong>
                                 <small>(EXA)</small>
                                 <br>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
@@ -52,7 +52,7 @@
                     <div class="media-content">
                         <div class="content">
                             <p>
-                                <strong>Studieloopbaanbegeleiding</strong>
+                                <strong>Studieloopbaan Begeleiding</strong>
                                 <small>(SLB)</small>
                                 <br>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
@@ -72,7 +72,7 @@
                     <div class="media-content">
                         <div class="content">
                             <p>
-                                <strong>POW</strong>
+                                <strong>Persoonlijke Ontwikkeling</strong>
                                 <small>(POW)</small>
                                 <br>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa

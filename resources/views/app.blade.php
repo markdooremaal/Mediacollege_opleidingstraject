@@ -36,6 +36,9 @@
                         <li class="prevnex prev">
                             <a href="@yield('previous')">Vorige fase</a>
                         </li>
+                        <li class="prevnex home">
+                            <a href="/"><strong>Terug naar overzicht</strong></a>
+                        </li>
                         <li class="prevnex nex">
                             <a href="@yield('next')">Volgende fase</a>
                         </li>

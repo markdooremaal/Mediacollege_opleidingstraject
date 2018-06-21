@@ -81,7 +81,7 @@
                     <div class="media-content">
                         <div class="content">
                             <p>
-                                <strong>Studieloopbaanbegeleiding</strong>
+                                <strong>Studieloopbaan Begeleiding</strong>
                                 <small>(SLB)</small>
                                 <br>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
@@ -101,7 +101,7 @@
                     <div class="media-content">
                         <div class="content">
                             <p>
-                                <strong>POW</strong>
+                                <strong>Persoonlijke Ontwikkeling</strong>
                                 <small>(POW)</small>
                                 <br>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
@@ -204,7 +204,7 @@
                         <div class="media-content">
                             <div class="content">
                                 <p>
-                                    <strong>Studieloopbaanbegeleiding</strong>
+                                    <strong>Studieloopbaan Begeleiding</strong>
                                     <small>(SLB)</small>
                                 </p>
                             </div>
@@ -221,7 +221,7 @@
                         <div class="media-content">
                             <div class="content">
                                 <p>
-                                    <strong>POW</strong>
+                                    <strong>Persoonlijke Ontwikkeling</strong>
                                     <small>(POW)</small>
                                 </p>
                             </div>

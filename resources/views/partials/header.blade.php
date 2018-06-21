@@ -2,7 +2,7 @@
     <div class="hero-body">
         <div class="container">
             <h1 class="title is-pink">
-                Mediacollege Amsterdam
+                <a href="/">Mediacollege Amsterdam</a>
             </h1>
             <h2 class="subtitle">
                 <strong>Opleidingstraject</strong> Mediadevelopment

@@ -30,7 +30,7 @@
                     <div class="media-content">
                         <div class="content">
                             <p>
-                                <strong>TPR</strong>
+                                <strong>Theoretisch Programmeren</strong>
                                 <small>(TPR)</small>
                                 <br>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
@@ -110,7 +110,7 @@
                     <div class="media-content">
                         <div class="content">
                             <p>
-                                <strong>WVO</strong>
+                                <strong>Werkveld Orientatie</strong>
                                 <small>(WVO)</small>
                                 <br>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
@@ -156,7 +156,7 @@
                     <div class="media-content">
                         <div class="content">
                             <p>
-                                <strong>Studieloopbaanbegeleiding</strong>
+                                <strong>Studieloopbaan Begeleiding</strong>
                                 <small>(SLB)</small>
                                 <br>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
@@ -319,7 +319,7 @@
                     <div class="media-content">
                         <div class="content">
                             <p>
-                                <strong>CMS</strong>
+                                <strong>Content Managment Systemen</strong>
                                 <small>(CMS)</small>
                                 <br>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
@@ -339,7 +339,7 @@
                     <div class="media-content">
                         <div class="content">
                             <p>
-                                <strong>Interdisciplinair samenwerken</strong>
+                                <strong>Interdisciplinair Project</strong>
                                 <small>(IDP)</small>
                                 <br>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
@@ -359,7 +359,7 @@
                     <div class="media-content">
                         <div class="content">
                             <p>
-                                <strong>Projectmatig werken</strong>
+                                <strong>Projectmatig Werken</strong>
                                 <small>(PMW)</small>
                                 <br>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
@@ -385,7 +385,7 @@
                     <div class="media-content">
                         <div class="content">
                             <p>
-                                <strong>Studieloopbaanbegeleiding</strong>
+                                <strong>Studieloopbaan Begeleiding</strong>
                                 <small>(SLB)</small>
                                 <br>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa

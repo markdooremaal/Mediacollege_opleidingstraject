@@ -8,3 +8,9 @@
     color: $black;
   }
 }
+
+.title {
+  &.is-pink:hover{
+    text-decoration: underline solid $white !important;
+  }
+}

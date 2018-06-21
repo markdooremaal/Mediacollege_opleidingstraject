@@ -26,7 +26,7 @@
                     <div class="media-content">
                         <div class="content">
                             <p>
-                                <strong>TPR</strong>
+                                <strong>Theoretisch Programmeren</strong>
                                 <small>(TPR)</small>
                                 <br>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
@@ -86,7 +86,7 @@
                     <div class="media-content">
                         <div class="content">
                             <p>
-                                <strong>WVO</strong>
+                                <strong>Werkveld Orientatie</strong>
                                 <small>(WVO)</small>
                                 <br>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
@@ -132,7 +132,7 @@
                     <div class="media-content">
                         <div class="content">
                             <p>
-                                <strong>Studieloopbaanbegeleiding</strong>
+                                <strong>Studieloopbaan Begeleiding</strong>
                                 <small>(SLB)</small>
                                 <br>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa

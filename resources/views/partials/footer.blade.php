@@ -12,3 +12,19 @@
     </div>
 </footer>
 <script type="text/javascript" src="{!! asset('js/animations.js') !!}"></script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Organization",
+  "name": "Mediacollege Amsterdam",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Contactweg 36",
+    "addressLocality": "Amsterdam",
+    "addressRegion": "Noord-Holland",
+    "postalCode": "1014 AN"
+  },
+  "telephone": "0208509500"
+}
+</script>
+

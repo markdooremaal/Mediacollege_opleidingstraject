@@ -287,6 +287,9 @@
                             <p>
                                 <strong>Front-End Programming</strong>
                                 <small>(FRO)</small>
+                                <br>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
+                                fringilla egestas. Nullam condimentum luctus turpis.
                             </p>
                         </div>
                         <div class="tags has-addons">
@@ -304,6 +307,9 @@
                             <p>
                                 <strong>Back-End Programming</strong>
                                 <small>(BAP)</small>
+                                <br>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
+                                fringilla egestas. Nullam condimentum luctus turpis.
                             </p>
                         </div>
                         <div class="tags has-addons">
@@ -427,6 +433,9 @@
                             <p>
                                 <strong>Nederlands</strong>
                                 <small>(NED)</small>
+                                <br>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
+                                fringilla egestas. Nullam condimentum luctus turpis.
                             </p>
                         </div>
                         <div class="tags has-addons">
@@ -444,6 +453,9 @@
                             <p>
                                 <strong>Engels</strong>
                                 <small>(ENG)</small>
+                                <br>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
+                                fringilla egestas. Nullam condimentum luctus turpis.
                             </p>
                         </div>
                         <div class="tags has-addons">
@@ -461,6 +473,9 @@
                             <p>
                                 <strong>Rekenen</strong>
                                 <small>(REK)</small>
+                                <br>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
+                                fringilla egestas. Nullam condimentum luctus turpis.
                             </p>
                         </div>
                         <div class="tags has-addons">

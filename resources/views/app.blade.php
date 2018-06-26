@@ -34,13 +34,28 @@
                 <div class="container">
                     <ul>
                         <li class="prevnex prev">
-                            <a href="@yield('previous')">Vorige fase</a>
+                            <a href="@yield('previous')">
+                            @if(Request::is('fase/1'))
+                                Terug naar overzicht
+                            @else
+                                Vorige fase
+                            @endif
+                            </a>
                         </li>
-                        <li class="prevnex home">
-                            <a href="/"><strong>Terug naar overzicht</strong></a>
-                        </li>
+                            @if(Request::is('fase/1') or Request::is('fase/5'))
+                            @else
+                                <li class="prevnex home">
+                                    <a href="/"><strong>Terug naar overzicht</strong></a>
+                                </li>
+                            @endif
                         <li class="prevnex nex">
-                            <a href="@yield('next')">Volgende fase</a>
+                            <a href="@yield('next')">
+                            @if(Request::is('fase/5'))
+                                Terug naar overzicht
+                            @else
+                                Volgende fase
+                            @endif
+                            </a>
                         </li>
                     </ul>
                 </div>

@@ -11598,7 +11598,7 @@ label.panel-block:hover {
   color: #0C0C0C;
 }
 
-.title.is-pink:hover {
+.underline:hover {
   -webkit-text-decoration: underline solid #fff !important;
           text-decoration: underline solid #fff !important;
 }

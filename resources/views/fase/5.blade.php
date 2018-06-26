@@ -12,6 +12,10 @@
     /fase/4
 @endsection
 
+@section('next')
+    /
+@endsection
+
 @section('content')
 
     <h1 class="title">Periode 3.3 & 3.4</h1>

@@ -8,6 +8,10 @@
     Orientatie
 @endsection
 
+@section('previous')
+    /
+@endsection
+
 @section('next')
     /fase/2
 @endsection

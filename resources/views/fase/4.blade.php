@@ -26,7 +26,7 @@
                 <div class="content">
                     <strong>Over fase 4</strong>
                     <p>
-                        Fase 4 loopt deels samen met fase 3. Je loopt 4 dagen per week stage in deze 4 dagen maak je 32 uur.
+                        Fase 4 loopt deels samen met fase 3. Je loopt in deze fase 4 dagen per week stage. In deze 4 dagen maak je 32 uur.
                         <br>Op vrijdag ben je op school om te werken aan de vakken van fase 3.
                     </p>
 

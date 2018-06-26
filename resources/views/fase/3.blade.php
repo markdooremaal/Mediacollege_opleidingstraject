@@ -123,6 +123,9 @@
                             <p>
                                 <strong>Nederlands</strong>
                                 <small>(NED)</small>
+                                <br>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
+                                fringilla egestas. Nullam condimentum luctus turpis.
                             </p>
                         </div>
                         <div class="tags has-addons">
@@ -140,6 +143,9 @@
                             <p>
                                 <strong>Engels</strong>
                                 <small>(ENG)</small>
+                                <br>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
+                                fringilla egestas. Nullam condimentum luctus turpis.
                             </p>
                         </div>
                         <div class="tags has-addons">
@@ -157,6 +163,9 @@
                             <p>
                                 <strong>Rekenen</strong>
                                 <small>(REK)</small>
+                                <br>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
+                                fringilla egestas. Nullam condimentum luctus turpis.
                             </p>
                         </div>
                         <div class="tags has-addons">
@@ -183,7 +192,11 @@
                             <div class="content">
                                 <p>
                                     <strong>Keuze 3 Mobile development of ondernemerschap</strong>
+                                    <br>
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
+                                    fringilla egestas. Nullam condimentum luctus turpis.
                                 </p>
+
                             </div>
                             <div class="tags has-addons">
                                 <span class="tag is-dark"><strong>Uren per week:</strong></span>
@@ -206,6 +219,9 @@
                                 <p>
                                     <strong>Studieloopbaan Begeleiding</strong>
                                     <small>(SLB)</small>
+                                    <br>
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
+                                    fringilla egestas. Nullam condimentum luctus turpis.
                                 </p>
                             </div>
                             <div class="tags has-addons">
@@ -223,6 +239,9 @@
                                 <p>
                                     <strong>Persoonlijke Ontwikkeling</strong>
                                     <small>(POW)</small>
+                                    <br>
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa
+                                    fringilla egestas. Nullam condimentum luctus turpis.
                                 </p>
                             </div>
                             <div class="tags has-addons">

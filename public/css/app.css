@@ -11608,8 +11608,15 @@ label.panel-block:hover {
 }
 
 .is-black .title,
-.is-black .subtitle {
+.is-black .subtitle,
+.is-black .paragraph {
   color: #fff;
+}
+
+.header-image {
+  background-image: url(https://picsum.photos/1920/500);
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
 }
 
 .is-pink-bg {
@@ -11633,5 +11640,13 @@ label.panel-block:hover {
 .prevnex.home {
   border-top-right-radius: 0px;
   border-top-left-radius: 0px;
+}
+
+.no-bottom-padding {
+  padding-bottom: 0 !important;
+}
+
+.no-top-padding {
+  padding-top: 0 !important;
 }
 

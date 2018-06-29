@@ -1,4 +1,4 @@
-<section class="hero is-black">
+<section class="hero is-black header-image">
     <div class="hero-body">
         <div class="container">
             <h1 class="title is-pink underline">
@@ -10,3 +10,9 @@
         </div>
     </div>
 </section>
+
+
+
+
+
+

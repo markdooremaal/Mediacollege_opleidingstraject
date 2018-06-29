@@ -6,6 +6,21 @@
 
 @if(Request::is('/'))
 
+    <section class="section is-black no-bottom-padding">
+        <div class="container">
+            <div class="content paragraph">
+                <h2 class="subtitle">Over deze website</h2>
+                <p>
+                    De opleiding Mediadevelopment op het Mediacollege Amsterdam is in verschillende fases
+                    opgesplitst.<br>
+                    Op deze site hebben we de fases gesorteerd bij het juiste jaar. We hopen u op deze manier beter te
+                    kunnen informeren over het opleidingstraject.<br>
+                    Klik om te beginnen op een van de fases om te zien welke vakken er bij desbetreffende fase horen.
+                </p>
+            </div>
+        </div>
+    </section>
+
     <section class="hero is-medium is-black has-text-centered-mobile">
         <div class="hero-body">
             <div class="container">
@@ -35,26 +50,26 @@
                     <ul>
                         <li class="prevnex prev">
                             <a href="@yield('previous')">
-                            @if(Request::is('fase/1'))
-                                Terug naar overzicht
-                            @else
-                                Vorige fase
-                            @endif
+                                @if(Request::is('fase/1'))
+                                    Terug naar overzicht
+                                @else
+                                    Vorige fase
+                                @endif
                             </a>
                         </li>
-                            @if(Request::is('fase/1') or Request::is('fase/5'))
-                            @else
-                                <li class="prevnex home">
-                                    <a href="/"><strong>Terug naar overzicht</strong></a>
-                                </li>
-                            @endif
+                        @if(Request::is('fase/1') or Request::is('fase/5'))
+                        @else
+                            <li class="prevnex home">
+                                <a href="/"><strong>Terug naar overzicht</strong></a>
+                            </li>
+                        @endif
                         <li class="prevnex nex">
                             <a href="@yield('next')">
-                            @if(Request::is('fase/5'))
-                                Terug naar overzicht
-                            @else
-                                Volgende fase
-                            @endif
+                                @if(Request::is('fase/5'))
+                                    Terug naar overzicht
+                                @else
+                                    Volgende fase
+                                @endif
                             </a>
                         </li>
                     </ul>

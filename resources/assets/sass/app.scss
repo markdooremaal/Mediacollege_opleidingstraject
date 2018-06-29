@@ -13,9 +13,15 @@
 
 .is-black {
   background-color: #0C0C0C !important;
-  .title, .subtitle {
+  .title, .subtitle, .paragraph {
     color: #fff;
   }
+}
+
+.header-image {
+  background-image: url(https://picsum.photos/1920/500);
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
 }
 
 .is-pink-bg {
@@ -39,4 +45,12 @@
     border-top-right-radius: 0px;
     border-top-left-radius: 0px;
   }
+}
+
+.no-bottom-padding {
+  padding-bottom: 0 !important;
+}
+
+.no-top-padding {
+  padding-top: 0 !important;
 }

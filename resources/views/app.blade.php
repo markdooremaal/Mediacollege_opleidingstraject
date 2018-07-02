@@ -33,8 +33,8 @@
 
     <section class="section has-text-centered is-black">
         <div class="container">
-            <h1 class="title">@yield('title')</h1>
-            <h2 class="subtitle">@yield('subtitle')</h2>
+            <h2 class="title">@yield('title')</h2>
+            <h3 class="subtitle">@yield('subtitle')</h3>
         </div>
     </section>
 

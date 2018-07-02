@@ -11,7 +11,9 @@
         </div>
     </div>
 </footer>
-<script type="text/javascript" src="{!! asset('js/animations.js') !!}"></script>
+<script type="text/javascript" src="{!! asset('js/app.min.js') !!}"></script>
+<script type="text/javascript" src="{!! asset('js/bulma.min.js') !!}"></script>
+<script type="text/javascript" src="{!! asset('js/animations.min.js') !!}"></script>
 <script type="application/ld+json">
 {
   "@context": "http://schema.org/",

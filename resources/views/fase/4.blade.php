@@ -18,7 +18,7 @@
 
 @section('content')
 
-    <h1 class="title is-pink">Periode 2.3 t/m 3.2</h1>
+    <h2 class="title is-pink">Periode 2.3 t/m 3.2</h2>
 
     <div class="box">
         <article class="media">

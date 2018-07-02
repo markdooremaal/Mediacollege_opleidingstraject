@@ -18,7 +18,7 @@
 
 @section('content')
 
-    <h1 class="title is-pink">Periode 2.2</h1>
+    <h2 class="title is-pink">Periode 2.2</h2>
 
     <div class="box">
         <article class="media">
@@ -44,12 +44,12 @@
         </article>
     </div>
 
-    <h1 class="title is-pink">Periode 2.3 & 2.4</h1>
+    <h2 class="title is-pink">Periode 2.3 & 2.4</h2>
 
     <div class="columns">
         <div class="column">
 
-            <h1 class="subtitle"><strong>Opleidingsgerichte Vakken &nbsp;<span class="icon is-small"><i class="fas fa-laptop" aria-hidden="true"></i></span></strong></h1>
+            <h2 class="subtitle"><strong>Opleidingsgerichte Vakken &nbsp;<span class="icon is-small"><i class="fas fa-laptop" aria-hidden="true"></i></span></strong></h2>
 
             <div class="box">
                 <article class="media">
@@ -74,7 +74,7 @@
 
         <div class="column">
 
-            <h1 class="subtitle"><strong>Algemene Vakken &nbsp;<span class="icon is-small"><i class="fas fa-book" aria-hidden="true"></i></span></strong></h1>
+            <h2 class="subtitle"><strong>Algemene Vakken &nbsp;<span class="icon is-small"><i class="fas fa-book" aria-hidden="true"></i></span></strong></h2>
 
             <div class="box">
                 <article class="media">
@@ -179,12 +179,12 @@
         </div>
     </div>
 
-        <h1 class="title is-pink">Periode 2.3 & 2.4</h1>
+        <h2 class="title is-pink">Periode 2.3 & 2.4</h2>
 
         <div class="columns">
             <div class="column">
 
-                <h1 class="subtitle"><strong>Opleidingsgerichte Vakken &nbsp;<span class="icon is-small"><i class="fas fa-laptop" aria-hidden="true"></i></span></strong></h1>
+                <h2 class="subtitle"><strong>Opleidingsgerichte Vakken &nbsp;<span class="icon is-small"><i class="fas fa-laptop" aria-hidden="true"></i></span></strong></h2>
 
                 <div class="box">
                     <article class="media">
@@ -210,7 +210,7 @@
 
             <div class="column">
 
-                <h1 class="subtitle"><strong>Algemene Vakken &nbsp;<span class="icon is-small"><i class="fas fa-book" aria-hidden="true"></i></span></strong></h1>
+                <h2 class="subtitle"><strong>Algemene Vakken &nbsp;<span class="icon is-small"><i class="fas fa-book" aria-hidden="true"></i></span></strong></h2>
 
                 <div class="box">
                     <article class="media">

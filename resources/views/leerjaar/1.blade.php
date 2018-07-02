@@ -1,12 +1,12 @@
 <div class="column">
 
-    <h1 class="title">Leerjaar 1</h1>
+    <h2 class="title">Leerjaar 1</h2>
 
     <hr>
 
     <a href="/fase/1">
         <div class="box fase-1" id="fase1">
-            <h1 class="subtitle">Fase 1 orientatie</h1>
+            <h3 class="subtitle">Fase 1 orientatie</h3>
         </div>
     </a>
 
@@ -14,7 +14,7 @@
 
     <a href="/fase/2">
         <div class="box fase-2">
-            <h1 class="subtitle">Fase 2 basis</h1>
+            <h3 class="subtitle">Fase 2 basis</h3>
         </div>
     </a>
 

@@ -11,7 +11,7 @@
             <div class="content paragraph">
                 <h2 class="subtitle">Over deze website</h2>
                 <p>
-                    De opleiding Mediadevelopment op het Mediacollege Amsterdam is in verschillende fases
+                    De opleiding <a class="underline is-white-pink" href="https://www.ma-web.nl/opleidingen/opleidingsoverzicht/mediadeveloper/" target="_blank">Mediadevelopment</a></span> op het Mediacollege Amsterdam is in verschillende fases
                     opgesplitst.<br>
                     Op deze site hebben we de fases gesorteerd bij het juiste jaar. We hopen u op deze manier beter te
                     kunnen informeren over het opleidingstraject.<br>

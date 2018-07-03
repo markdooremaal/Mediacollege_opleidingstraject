@@ -9,6 +9,13 @@
   }
 }
 
-.underline:hover{
-    text-decoration: underline solid $white !important;
+.underline:hover {
+  text-decoration: underline solid $white !important;
+}
+
+.is-white-pink {
+  color: $pink;
+  &:hover {
+    color: $white;
   }
+}

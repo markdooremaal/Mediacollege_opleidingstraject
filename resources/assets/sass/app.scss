@@ -19,9 +19,14 @@
 }
 
 .header-image {
-  background-image: url(https://picsum.photos/1920/500);
+  background-image: url(https://www.pieterman.com/wp-content/uploads/2014/08/Amsterdam-Skyline.jpg);
   background-repeat: no-repeat !important;
-  background-size: cover !important;
+  background-size: cover;
+  background-position: center;
+}
+
+.is-darker {
+  background-color: rgba(0, 0, 0, 0.50);
 }
 
 .is-pink-bg {

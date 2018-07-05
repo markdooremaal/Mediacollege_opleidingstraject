@@ -13,11 +13,5 @@ let mix = require('laravel-mix');
 
 mix.js('resources/assets/js/app.js', 'public/js')
    .sass('resources/assets/sass/app.scss', 'public/css')
-   .js('resources/assets/js/bulma.js', 'public/js')
-   .js('resources/assets/js/animations.js', 'public/js')
 
-mix.minify(['public/css/app.css','public/js/app.js','public/js/animations.js','public/js/bulma.js']);
-
-//    mix.browserSync({
-//     proxy: 'opleidingstraject.test'
-// })
+mix.minify(['public/css/app.css','public/js/app.js']);

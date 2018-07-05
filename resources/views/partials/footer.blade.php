@@ -11,6 +11,8 @@
         </div>
     </div>
 </footer>
+<link href={{ asset('css/app.min.css') }} rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 <script type="text/javascript" src="{!! asset('js/app.min.js') !!}"></script>
 <script type="text/javascript" src="{!! asset('js/bulma.min.js') !!}"></script>
 <script type="text/javascript" src="{!! asset('js/animations.min.js') !!}"></script>

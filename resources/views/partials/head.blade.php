@@ -8,7 +8,7 @@
     <meta name="description" content="Mediadeveloper opleidingstraject 2018 - 2019 | Mediacollege Amsterdam, worden wat je bent">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Mediacollege Amsterdam">
-
+    <meta name="google-site-verification" content="Zf7PdLDwhu7f6JCjpfLfEjEN3v4sm78wRCXBTAkQKlI" />
     {{-- Favicon --}}
     <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
